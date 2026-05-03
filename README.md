@@ -1,2 +1,3 @@
 # tigers-wildlife
-a mod that add new animals
+A mod that add new animals made in Java Minecraft
+

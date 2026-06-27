@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="tiger_test"
+version="1.0"
+displayName="Tiger test"
+credits="Made by me"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="Orbit"
+
+[[dependencies.tiger_test]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

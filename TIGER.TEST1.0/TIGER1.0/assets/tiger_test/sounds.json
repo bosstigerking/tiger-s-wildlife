@@ -1,0 +1,20 @@
+{
+  "siberiantigergrowl": {
+    "subtitle": "subtitles.siberiantigergrowl",
+    "sounds": [
+      {
+        "name": "tiger_test:tiger-ambient-siberian",
+        "stream": false
+      }
+    ]
+  },
+  "tigertakedamage": {
+    "subtitle": "subtitles.tigertakedamage",
+    "sounds": [
+      {
+        "name": "tiger_test:tiger-hurt",
+        "stream": false
+      }
+    ]
+  }
+}

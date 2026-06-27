@@ -1,6 +1,0 @@
-{
-  "type": "forge:add_features",
-  "biomes": "tiger_test:tiger_jungle",
-  "features": "tiger_test:poison_ivy",
-  "step": "vegetal_decoration"
-}

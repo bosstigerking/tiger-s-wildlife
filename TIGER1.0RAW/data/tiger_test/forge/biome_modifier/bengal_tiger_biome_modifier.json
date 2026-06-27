@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": [
+    "bamboo_jungle",
+    "sparse_jungle",
+    "tiger_test:tiger_jungle",
+    "jungle"
+  ],
+  "spawners": {
+    "type": "tiger_test:bengal_tiger",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

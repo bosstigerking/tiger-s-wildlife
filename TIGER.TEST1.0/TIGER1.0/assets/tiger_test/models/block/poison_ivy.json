@@ -1,8 +1,0 @@
-{
-  "parent": "block/tinted_cross",
-  "textures": {
-    "cross": "tiger_test:block/posionivyplant",
-    "particle": "tiger_test:block/poisonivytexture"
-  },
-  "render_type": "cutout"
-}
